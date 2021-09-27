@@ -1,14 +1,61 @@
 /* style.css */
 
+body {
+    background-image: url(../images/bubble-background.png);
+    background-repeat: repeat;
+}
 h1 {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration: underline;
+    font-style: italic;
+    color: #ffffff
 }
 img {
     height: 500px;
     width:auto;
 }
+
+a:link {
+    color: #adb5f1;
+}
+
+a:visited {
+    color: #adb5f1;
+}
+
+a:hover {
+    color: #b43434;
+}
+
+h3 {
+    color: #b43434;
+    font-size: 22px;
+}
+
+p,li {
+    color: #ffffffce;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .center {
         display: block;
         margin-left: auto;
         margin-right: auto;
       }
+
+.list-container {
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    .list-item {
+        display: inline-block;
+    }
+}
+
+.list.link {
+    text-decoration: none;
+}
