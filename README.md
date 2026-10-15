@@ -1,0 +1,1 @@
+This is my second run through the Odin Project. I'm hoping to get through it this time. Or just keep plugging away steadily. This time through this project I'm focused more on my work flow than on how my site looks. I didn't do a good job at setting up for CSS last time. I hope to do better this time.
